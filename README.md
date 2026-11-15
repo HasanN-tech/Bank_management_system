@@ -1,2 +1,2 @@
 # Bank_management_system
- Its a minor project on java.
+ Its a minor project on java with core technologies.
